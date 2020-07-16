@@ -2,6 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mkao</title>
+    
+    
+    
     <link>miiha.github.io/post/</link>
     <description>Recent content in Posts on mkao</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -17,9 +20,17 @@
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
       <guid>miiha.github.io/post/hello/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
+      <description>
+        
+          &lt;img src=&#34;miiha.github.io/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
     </item>
     
   </channel>
