@@ -16,10 +16,10 @@
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
-      <link>/posts/the-figure-shortcode/</link>
+      <link>/_posts/the-figure-shortcode/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>/posts/the-figure-shortcode/</guid>
+      <guid>/_posts/the-figure-shortcode/</guid>
       <description>
         
           
@@ -39,10 +39,10 @@ This theme has 3 CSS classes made for figure elements:
     
     <item>
       <title>Post With Featured Image</title>
-      <link>/posts/post-with-featured-image/</link>
+      <link>/_posts/post-with-featured-image/</link>
       <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
       
-      <guid>/posts/post-with-featured-image/</guid>
+      <guid>/_posts/post-with-featured-image/</guid>
       <description>
         
           
@@ -61,10 +61,10 @@ For example:
     
     <item>
       <title>Typography</title>
-      <link>/posts/typography/</link>
+      <link>/_posts/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>/posts/typography/</guid>
+      <guid>/_posts/typography/</guid>
       <description>
         
           
