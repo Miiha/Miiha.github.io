@@ -5,24 +5,24 @@
     
     
     
-    <link>miiha.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on mkao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="miiha.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Friend</title>
-      <link>miiha.github.io/post/hello/</link>
+      <link>/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/post/hello/</guid>
+      <guid>/post/hello/</guid>
       <description>
         
-          &lt;img src=&#34;miiha.github.io/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;/img/hello.jpg&#34;/&gt;
           
         
         

@@ -5,21 +5,21 @@
     
     
     
-    <link>miiha.github.io/tags/hugo/</link>
+    <link>/tags/hugo/</link>
     <description>Recent content in hugo on mkao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="miiha.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>miiha.github.io/posts/hugoisforlovers/</link>
+      <link>/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/posts/hugoisforlovers/</guid>
+      <guid>/posts/hugoisforlovers/</guid>
       <description>
         
           

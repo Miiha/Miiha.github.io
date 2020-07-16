@@ -5,21 +5,21 @@
     
     
     
-    <link>miiha.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on mkao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="miiha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo</title>
-      <link>miiha.github.io/tags/demo/</link>
+      <link>/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>miiha.github.io/tags/demo/</guid>
+      <guid>/tags/demo/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>Image</title>
-      <link>miiha.github.io/tags/image/</link>
+      <link>/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>miiha.github.io/tags/image/</guid>
+      <guid>/tags/image/</guid>
       <description>
         
           
@@ -56,10 +56,10 @@
     
     <item>
       <title>Typography</title>
-      <link>miiha.github.io/tags/typography/</link>
+      <link>/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>miiha.github.io/tags/typography/</guid>
+      <guid>/tags/typography/</guid>
       <description>
         
           
@@ -76,10 +76,10 @@
     
     <item>
       <title>development</title>
-      <link>miiha.github.io/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description>
         
           
@@ -96,10 +96,10 @@
     
     <item>
       <title>go</title>
-      <link>miiha.github.io/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description>
         
           
@@ -116,10 +116,10 @@
     
     <item>
       <title>golang</title>
-      <link>miiha.github.io/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description>
         
           
@@ -136,10 +136,10 @@
     
     <item>
       <title>hugo</title>
-      <link>miiha.github.io/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description>
         
           
@@ -156,10 +156,10 @@
     
     <item>
       <title>templates</title>
-      <link>miiha.github.io/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
       <description>
         
           
@@ -176,10 +176,10 @@
     
     <item>
       <title>themes</title>
-      <link>miiha.github.io/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>miiha.github.io/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description>
         
           

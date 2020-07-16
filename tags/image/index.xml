@@ -5,21 +5,21 @@
     
     
     
-    <link>miiha.github.io/tags/image/</link>
+    <link>/tags/image/</link>
     <description>Recent content in Image on mkao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="miiha.github.io/tags/image/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/image/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
-      <link>miiha.github.io/posts/the-figure-shortcode/</link>
+      <link>/posts/the-figure-shortcode/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>miiha.github.io/posts/the-figure-shortcode/</guid>
+      <guid>/posts/the-figure-shortcode/</guid>
       <description>
         
           
@@ -39,10 +39,10 @@ This theme has 3 CSS classes made for figure elements:
     
     <item>
       <title>Post With Featured Image</title>
-      <link>miiha.github.io/posts/post-with-featured-image/</link>
+      <link>/posts/post-with-featured-image/</link>
       <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
       
-      <guid>miiha.github.io/posts/post-with-featured-image/</guid>
+      <guid>/posts/post-with-featured-image/</guid>
       <description>
         
           
