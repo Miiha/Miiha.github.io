@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on hello</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on hello</description>
+    <title>untagged on hello</title>
+    <link>http://example.org/tags/untagged/</link>
+    <description>Recent content in untagged on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Michael Kao</copyright>
-    <lastBuildDate>Sat, 05 Feb 2022 21:34:50 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Feb 2022 21:34:50 +0100</lastBuildDate><atom:link href="http://example.org/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keyboards</title>
       <link>http://example.org/posts/keyboard/</link>
