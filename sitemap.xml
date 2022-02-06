@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/keyboard/</loc>
+    <loc>https://blog.mkao.xyz/posts/keyboard/</loc>
     <lastmod>2022-02-05T21:34:50+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.mkao.xyz/</loc>
     <lastmod>2022-02-05T21:34:50+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://blog.mkao.xyz/posts/</loc>
     <lastmod>2022-02-05T21:34:50+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://blog.mkao.xyz/tags/</loc>
     <lastmod>2022-02-05T21:34:50+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/untagged/</loc>
+    <loc>https://blog.mkao.xyz/tags/untagged/</loc>
     <lastmod>2022-02-05T21:34:50+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://blog.mkao.xyz/about/</loc>
     <lastmod>2022-02-05T19:41:15+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.mkao.xyz/categories/</loc>
   </url>
 </urlset>

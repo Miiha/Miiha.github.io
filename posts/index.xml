@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on hi</title>
-        <link>http://example.org/posts/</link>
+        <link>https://blog.mkao.xyz/posts/</link>
         <description>Recent content in Posts on hi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Michael Kao</copyright>
         <lastBuildDate>Sat, 05 Feb 2022 21:34:50 +0100</lastBuildDate>
-        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.mkao.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Keyboards</title>
-            <link>http://example.org/posts/keyboard/</link>
+            <link>https://blog.mkao.xyz/posts/keyboard/</link>
             <pubDate>Sat, 05 Feb 2022 21:34:50 +0100</pubDate>
             
-            <guid>http://example.org/posts/keyboard/</guid>
+            <guid>https://blog.mkao.xyz/posts/keyboard/</guid>
             <description>Introduction </description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
 ]]></content>
