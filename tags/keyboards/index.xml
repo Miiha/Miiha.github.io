@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hi</title>
-    <link>https://blog.mkao.xyz/</link>
-    <description>Recent content on hi</description>
+    <title>keyboards on hi</title>
+    <link>https://blog.mkao.xyz/tags/keyboards/</link>
+    <description>Recent content in keyboards on hi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Michael Kao</copyright>
-    <lastBuildDate>Fri, 18 Mar 2022 21:34:50 +0100</lastBuildDate><atom:link href="https://blog.mkao.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 21:34:50 +0100</lastBuildDate><atom:link href="https://blog.mkao.xyz/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mechanical Keyboards</title>
       <link>https://blog.mkao.xyz/posts/keyboard/</link>
@@ -16,16 +16,6 @@
       <guid>https://blog.mkao.xyz/posts/keyboard/</guid>
       <description>When it comes to keyboards I wasn&amp;rsquo;t really having any real preference. When it started getting interested in computers - mostly for gaming - I used some random full sized membrane keyboard. I used it, because it was around. Not ever was I giving a deeper thought into how I gave inputs into a PC.
 Customized apple magic keyboard After switching away from PC to Apple hardware I mainly stuck with apple keyboards.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://blog.mkao.xyz/about/</link>
-      <pubDate>Sat, 05 Feb 2022 19:41:15 +0100</pubDate>
-      
-      <guid>https://blog.mkao.xyz/about/</guid>
-      <description>My name is Michael Kao.
- https://github.com/Miiha https://twitter.com/kaostheory  </description>
     </item>
     
   </channel>
